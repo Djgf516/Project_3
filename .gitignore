@@ -1,5 +1,6 @@
 # Ignore large csv file
 troop_movements10m.csv
+troop_movements10m.parquet
 
 # Logs
 logs
