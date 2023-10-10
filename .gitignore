@@ -1,5 +1,5 @@
-# Ignoring large csv file
-\troop_movements10m.csv
+# Ignore large csv file
+troop_movements10m.csv
 
 # Logs
 logs
